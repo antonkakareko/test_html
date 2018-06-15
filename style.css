@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-size: 100px;
+  border: 50px;
+  padding: 100px;
+  margin: 40px;
+}
+.main-heading {
+color: green;
+}
+.antra-pastraipa {
+  color: red;
+  width: 200px;
+  margin: 0 auto;
+}
+.heading-second {
+  colour: blue;
+}
+#main-image .images .all-photo{
+  width: 300px;
+}
+.tekstas {
+  width: 100%;
+}
